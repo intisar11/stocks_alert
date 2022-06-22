@@ -27,7 +27,7 @@ change = difference/ data_2
 print(change)
 
 if change > .05:
-    print("great newsss")
+    print("great newsssss")
 
     ## STEP 2: https://newsapi.org/ 
     # Instead of printing ("Get News"), actually get the first 3 news pieces for the COMPANY_NAME. 
